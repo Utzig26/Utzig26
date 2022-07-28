@@ -20,5 +20,5 @@
 
 ##
 
-- 🧑‍💻 I'm last period Computer science student.
+- 🧑‍💻 I'm a last year Computer science student.
 - 🔭 Passionate about solving problems and learn new things.
