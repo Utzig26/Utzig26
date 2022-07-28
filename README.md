@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**Utzig26/Utzig26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> Hi 👋, I'm Gabriel </h3>
+<!-- Github status -->
+<div>
+  <a align="center"  href="https://github.com/utzig26">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=utzig26&show_icons=true&theme=city_lights&include_all_commits=true&count_private=false&border_radius=0&hide_border=true" />
+  </a>
+</div>
+<!-- Badges -->
+<div>
+  <!-- Linkedin Button -->
+  <a href="https://www.linkedin.com/in/gabriel-utzig">
+    <img src="https://img.shields.io/badge/LinkedIn-1e252c?style=for-the-badge&logo=linkedin&logoColor=5192fe" alt="Connect with me on linkedin" >
+  </a>
+  <!-- Instagram Button -->
+  <a href="https://www.instagram.com/gabriel.utzig">
+    <img src="https://img.shields.io/badge/Instagram-1e252c?style=for-the-badge&logo=Instagram&logoColor=5192fe" alt="Connect with me on linkedin" >
+  </a>
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 I'm last period Computer science student.
+- 🔭 Passionate about solving problems and learn new things.
