@@ -2,8 +2,11 @@
 <h3> Hi 👋, I'm Gabriel </h3>
 <!-- Github status -->
 <div>
-  <a align="center"  href="https://github.com/utzig26">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=utzig26&show_icons=true&theme=city_lights&include_all_commits=true&count_private=false&border_radius=0&hide_border=true" />
+  <a align="center" href="https://github.com/utzig26">
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=utzig26&show_icons=true&theme=city_lights&include_all_commits=true&count_private=false&border_radius=0&hide_border=true" />
+  </a>
+  <a align="center" href="https://github.com/utzig26">
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utzig26&langs_count=8&theme=city_lights&layout=compact&count_private=true&border_radius=0&hide_border=true" />
   </a>
 </div>
 <!-- Badges -->
